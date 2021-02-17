@@ -5,4 +5,4 @@ The libraries used are as follows:
 2.  numpy(1.18.5)
 3.  scipy(1.4.1)
 4.  PIL(8.0.1)
-![alt text]()
+![alt text](https://github.com/MXNXV/Blurring-Images/blob/main/Figure_1.png)
